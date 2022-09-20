@@ -60,7 +60,7 @@ function User(){
                    return(
                     <>
                     <br/>
-                    <Card variant="outlined" className="box">
+                    <Card variant="outlined" className="box1">
                         <h5>{item.name}</h5>
                         <p>{item.description}</p>
                         <strong>price:</strong>{item.price}<br/><br/>
