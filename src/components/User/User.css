@@ -1,0 +1,11 @@
+.form{
+    position: relative;
+    left: 47%;
+}
+
+.box{
+    width: 30vw;
+    position: relative;
+    left: 35%;
+    padding: 25px;
+}

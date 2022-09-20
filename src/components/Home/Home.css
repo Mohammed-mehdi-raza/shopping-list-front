@@ -1,0 +1,16 @@
+.container{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    padding: 50px;
+    margin: 5px;
+}
+
+.out{
+    background-color: rgb(92, 174, 201);
+}
