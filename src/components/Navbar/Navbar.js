@@ -12,7 +12,7 @@ function Navbar(){
 
     return(
         <div className='nav'>
-             <Button variant="outlined" onClick={click} style={{backgroundColor:"lightgreen",color:"orange",position:"relative",left:"85%",top:"25%"}}>logout</Button>
+            <Button variant="outlined" onClick={click} style={{backgroundColor:"lightgreen",color:"orange",position:"relative",left:"85%",top:"25%"}}>logout</Button>
         </div>
     );
 }
